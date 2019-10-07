@@ -16,6 +16,7 @@
 10. IntrinsicHeight
 
 扫码或点击链接下载：
+
 <img src="/scancode.png" />
 
 <https://github.com/KaiXuan666/guagua_news/blob/master/app-release.apk?raw=true>
