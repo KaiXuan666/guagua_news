@@ -23,7 +23,7 @@
 
 <img src="/scancode.png" />
 
-<https://github.com/KaiXuan666/guagua_news/blob/master/app-release.apk?raw=true>
+<https://raw.githubusercontent.com/KaiXuan666/guagua_news/master/app-release.apk>
 
 
 ## Getting Started
