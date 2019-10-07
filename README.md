@@ -1,6 +1,30 @@
-# flutter_news
+# 瓜瓜头条
 
-A new Flutter application.
+一个使用Flutter开发的新闻Demo，代码量较少，便于新手学习。
+
+使用到的Flutter Widget和相关技术有：
+
+1. http
+2. json解析（json_annotation）
+3. Navigator页面跳转
+4. WebView
+5. RefreshIndicator
+6. TabController
+7. PageController
+8. ListView
+9. InkWell
+10. IntrinsicHeight
+
+预览：
+
+<img src="/image.jpg" width = 50% height = 50% />
+
+扫码或点击链接下载：
+
+<img src="/scancode.png" />
+
+<https://raw.githubusercontent.com/KaiXuan666/guagua_news/master/app-release.apk>
+
 
 ## Getting Started
 
