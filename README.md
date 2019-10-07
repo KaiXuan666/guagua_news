@@ -21,7 +21,7 @@
 
 扫码或点击链接下载：
 
-<img src="/scancode.png" />
+<img src="/scancodex.png" />
 
 <https://raw.githubusercontent.com/KaiXuan666/guagua_news/master/app-release.apk>
 
