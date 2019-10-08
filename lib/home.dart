@@ -102,9 +102,7 @@ class HomePageState extends State<StatefulWidget> {
     return NewsListView(
         newsType,
             (detail) => {
-          Navigator.push(context, MaterialPageRoute(builder: (context) {
-            return NewsDetailPage(detail);
-          }))
+            Navigator.of(context).pushNamed("/NewsDetailPage", arguments: detail)
         });
 //    return Flexible(
 //      child: NewsListView(
